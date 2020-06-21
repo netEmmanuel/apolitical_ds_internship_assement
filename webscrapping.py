@@ -75,8 +75,3 @@ df.to_csv('apoliticalArticles.csv')
 
 driver.quit()
 
-
-# Section 2
-
-#Article content analysis
-
