@@ -10,3 +10,7 @@
 **Scraper Reference:** https://www.selenium.dev/documentation/en/  
 **Feature extration:** https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html#sklearn.feature_extraction.text.TfidfVectorizer  
 
+##installations required
+ !pip install selenium
+ !pip install BeautifulSoup
+ !pip install pandas
