@@ -1,4 +1,4 @@
-# Apolitical data science internship assement: Project Overview 
+# Apolitical data science internship assement
 * Scraped apolitical website article using python and selenium
 * Engineered features from the articles to identify major keywords. 
 * Data Cleaning
